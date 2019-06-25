@@ -1,6 +1,6 @@
-#Python Challenge
+# Python Challenge
 
 |Directory|
 |:---:|
-|[Bank](PyBank/README.md)|
-|[Poll](PyPoll/README.md)|
+|[Bank](PyBank)|
+|[Poll](PyPoll)|
