@@ -2,5 +2,5 @@
 
 |Directory|
 |:---:|
-|[Bank](PyBank/README.md)|
+|[Bank](PyBank)|
 |[Poll](PyPoll/README.md)|
