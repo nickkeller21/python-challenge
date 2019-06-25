@@ -3,4 +3,4 @@
 |Directory|
 |:---:|
 |[Bank](PyBank)|
-|[Poll](PyPoll/README.md)|
+|[Poll](PyPoll)|
