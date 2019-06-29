@@ -36,17 +36,27 @@ answer = ("Election Results"+
 
 print(answer) 
 with open('Answer.csv', 'w', newline='\n') as f:
-    f.write(answer)```
+    f.write(answer)
+```
 
 ## Answer
 Election Results
+
 ------------------------
+
 Total Votes:3521001
+
 ------------------------
+
 Khan: 63% 2218231
+
 Correy: 20% 704200
+
 Li: 14% 492940
+
 O'Tooley: 3% 105630
+
 ------------------------
+
 Winner:Khan
 
