@@ -29,7 +29,8 @@ answer = ("Total Months: "+ str(months)+
     "\nTotal Months: "+ str(months))
 print(answer)
 with open('Answer.csv', 'w', newline='\n') as f:
-    f.write(answer)```
+    f.write(answer)
+```
 	
 ## Answer
 Total Months: 86
