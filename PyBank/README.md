@@ -32,3 +32,9 @@ with open('Answer.csv', 'w', newline='\n') as f:
     f.write(answer)```
 	
 ## Answer
+Total Months: 86
+Total: $38382578
+Average Change: $446309.05
+Greatest Increase in Profits: Feb-2012 $1170593
+Greatest Decrease in Profits: Sep-2013 $-1196225
+Total Months: 86
